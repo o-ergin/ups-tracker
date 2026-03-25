@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+workers/scraper/.venv/
+apps/*/node_modules/
+__pycache__/
+*.pyc
+.next/
+dist/
